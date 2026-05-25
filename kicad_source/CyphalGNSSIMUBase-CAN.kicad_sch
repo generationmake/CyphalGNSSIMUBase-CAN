@@ -4701,7 +4701,7 @@
 		(uuid "64a15a08-5d4e-40a1-bf5c-1066142321ea")
 	)
 	(label "BNO_RESET"
-		(at 125.73 44.45 0)
+		(at 125.73 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4720,7 +4720,7 @@
 		)
 		(uuid "7a4a0f21-9cc4-4369-a7c7-269e2eae8e80")
 	)
-	(label "RS232_TX"
+	(label "RS232_RX"
 		(at 104.14 135.89 0)
 		(effects
 			(font
@@ -4791,7 +4791,7 @@
 		(uuid "96de2f04-097f-43fe-8ff4-561ffff200c2")
 	)
 	(label "GNSS_RESET"
-		(at 125.73 46.99 0)
+		(at 125.73 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5038,7 +5038,7 @@
 	)
 	(global_label "GNSS_RESET"
 		(shape output)
-		(at 120.65 46.99 180)
+		(at 120.65 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5048,7 +5048,7 @@
 		)
 		(uuid "6a857145-4922-4528-848a-cf393ff81225")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.7744 46.99 0)
+			(at 103.7744 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5058,7 +5058,7 @@
 			)
 		)
 		(property "Referenzen zwischen Schaltplänen" "${INTERSHEET_REFS}"
-			(at 120.65 49.1921 0)
+			(at 120.65 46.6521 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5070,7 +5070,7 @@
 	)
 	(global_label "BNO_RESET"
 		(shape output)
-		(at 120.65 44.45 180)
+		(at 120.65 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5080,7 +5080,7 @@
 		)
 		(uuid "6d38efc5-7df8-4859-b11e-a2da858fb698")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.0806 44.45 0)
+			(at 105.0806 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5090,7 +5090,7 @@
 			)
 		)
 		(property "Referenzen zwischen Schaltplänen" "${INTERSHEET_REFS}"
-			(at 120.65 46.6521 0)
+			(at 120.65 49.1921 0)
 			(effects
 				(font
 					(size 1.524 1.524)
