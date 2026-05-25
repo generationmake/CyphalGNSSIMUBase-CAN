@@ -2005,6 +2005,36 @@
 		)
 		(uuid "18f37da4-0b7e-4976-a44d-1921584fa51c")
 	)
+	(text "cell holder for CR1220 lithium cell"
+		(exclude_from_sim no)
+		(at 216.662 61.976 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2c416e4e-1aca-42ef-b3ed-cf1aafd294b0")
+	)
+	(text "1k resistor for battery short circuit protection"
+		(exclude_from_sim no)
+		(at 234.696 54.356 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3221b44f-d6a6-4bc0-9be4-2680d917edde")
+	)
+	(text "VIO_SEL not connected = 3.3 V"
+		(exclude_from_sim no)
+		(at 57.912 84.836 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "65f271d0-1ab5-4b60-86e9-b190c878b465")
+	)
 	(label "TIMEPULSE"
 		(at 109.22 76.2 0)
 		(effects
@@ -2025,7 +2055,17 @@
 		)
 		(uuid "25a21982-7ca7-4888-a128-5adff5eb6540")
 	)
-	(label "D2_R"
+	(label "VCC_RF_R"
+		(at 111.76 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4620d68c-2121-48f7-8fe4-bb67c766a84a")
+	)
+	(label "D5_R"
 		(at 128.27 76.2 0)
 		(effects
 			(font
@@ -2085,7 +2125,7 @@
 		)
 		(uuid "93559c56-184b-43e9-915c-f245e78d1d65")
 	)
-	(label "NEO_RESET"
+	(label "GNSS_RESET"
 		(at 58.42 78.74 0)
 		(effects
 			(font
@@ -2118,6 +2158,28 @@
 		(uuid "26f13ad7-c186-430b-be53-499120b158cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 42.5424 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GNSS_RESET"
+		(shape input)
+		(at 54.61 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "403a9185-2881-4ed2-a3ab-82c5279f94f2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.5468 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)

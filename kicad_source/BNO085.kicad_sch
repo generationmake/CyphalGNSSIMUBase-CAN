@@ -1200,6 +1200,12 @@
 		(uuid "af582f51-94a5-4e9e-883a-80ee93e28163")
 	)
 	(junction
+		(at 39.37 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b124e6b2-f372-4049-9747-cd5b99a7e828")
+	)
+	(junction
 		(at 110.49 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1248,6 +1254,16 @@
 			(type default)
 		)
 		(uuid "1584727f-5bf0-420f-8caf-95c6ce7c7eca")
+	)
+	(wire
+		(pts
+			(xy 39.37 49.53) (xy 39.37 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16ddd570-5d89-408b-a987-c47c0977f511")
 	)
 	(wire
 		(pts
@@ -1361,7 +1377,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 52.07) (xy 46.99 50.8)
+			(xy 46.99 44.45) (xy 46.99 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1481,6 +1497,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 54.61) (xy 39.37 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "648c50e9-4d04-42a4-8a5b-f3abc92aa899")
+	)
+	(wire
+		(pts
 			(xy 140.97 59.69) (xy 140.97 72.39)
 		)
 		(stroke
@@ -1521,6 +1547,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 54.61) (xy 63.5 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "855d906b-58d7-4ee2-9d57-0e939eb30316")
+	)
+	(wire
+		(pts
 			(xy 132.08 36.83) (xy 134.62 36.83)
 		)
 		(stroke
@@ -1548,6 +1584,16 @@
 			(type default)
 		)
 		(uuid "90a30968-5bcb-4d0c-8a0c-6ab9481ca062")
+	)
+	(wire
+		(pts
+			(xy 39.37 43.18) (xy 39.37 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "930be4d4-01bc-46aa-bcfb-e0a27c2a0d73")
 	)
 	(wire
 		(pts
@@ -1591,16 +1637,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 54.61) (xy 63.5 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9baf622a-54db-4dcc-b783-0bd95caf1c97")
-	)
-	(wire
-		(pts
 			(xy 123.19 27.94) (xy 125.73 27.94)
 		)
 		(stroke
@@ -1631,7 +1667,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 67.31) (xy 46.99 57.15)
+			(xy 46.99 49.53) (xy 46.99 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1945,7 +1981,7 @@
 	)
 	(text "use internal clock"
 		(exclude_from_sim no)
-		(at 27.94 54.61 0)
+		(at 41.91 70.358 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2086,8 +2122,8 @@
 		)
 		(uuid "bb931ba3-85fd-4e4f-a598-cf74839311a2")
 	)
-	(label "RESET"
-		(at 54.61 54.61 0)
+	(label "BNO_RESET"
+		(at 50.8 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2184,6 +2220,38 @@
 					(size 1.524 1.524)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BNO_RESET"
+		(shape input)
+		(at 33.02 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right)
+		)
+		(uuid "9c20fc42-3fff-41ee-af94-1c5cf364cb06")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.4506 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Referenzen zwischen Schaltplänen" "${INTERSHEET_REFS}"
+			(at 33.02 56.8121 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3257,7 +3325,7 @@
 	)
 	(symbol
 		(lib_id "NavShieldBNO-rescue:R_0603-devices")
-		(at 46.99 54.61 0)
+		(at 46.99 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3265,7 +3333,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f60b52d")
 		(property "Reference" "R10"
-			(at 48.4886 53.4416 0)
+			(at 48.4886 45.8216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3274,7 +3342,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 48.4886 55.753 0)
+			(at 48.4886 48.133 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3283,7 +3351,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 46.99 58.42 0)
+			(at 46.99 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3292,7 +3360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 54.61 0)
+			(at 46.99 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3300,7 +3368,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 46.99 54.61 0)
+			(at 46.99 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3922,6 +3990,74 @@
 		)
 	)
 	(symbol
+		(lib_id "NavShieldBNO-rescue:R_0603-devices")
+		(at 39.37 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "565e1fa1-1e41-40f0-84a9-5483b1ba29b6")
+		(property "Reference" "R20"
+			(at 40.8686 45.8216 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 40.8686 48.133 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 39.37 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 39.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1824983-827f-4935-bce8-191112f848fa")
+		)
+		(pin "2"
+			(uuid "6fba03ea-c087-4a64-9809-9b595690b6eb")
+		)
+		(instances
+			(project "CyphalGNSSIMUBase-CAN"
+				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "OpenCyphalPicoBase-rescue:+3.3V-power-supply")
 		(at 154.94 87.63 0)
 		(unit 1)
@@ -4175,7 +4311,7 @@
 	)
 	(symbol
 		(lib_id "OpenCyphalPicoBase-rescue:+3.3V-power-supply")
-		(at 46.99 50.8 0)
+		(at 46.99 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4183,7 +4319,7 @@
 		(dnp no)
 		(uuid "f312731b-ec9c-466c-861c-82a9f9824eb6")
 		(property "Reference" "#PWR43"
-			(at 46.99 54.61 0)
+			(at 46.99 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4192,7 +4328,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 47.371 46.4058 0)
+			(at 47.371 38.7858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4200,7 +4336,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 50.8 0)
+			(at 46.99 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4208,7 +4344,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 50.8 0)
+			(at 46.99 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4216,7 +4352,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 46.99 50.8 0)
+			(at 46.99 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4231,6 +4367,69 @@
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
 					(reference "#PWR43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OpenCyphalPicoBase-rescue:+3.3V-power-supply")
+		(at 39.37 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc7df680-2080-4722-8d56-750ffc17669c")
+		(property "Reference" "#PWR69"
+			(at 39.37 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 39.751 38.7858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 39.37 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aef92e02-a56b-43e8-822f-38f3a2a4cd0e")
+		)
+		(instances
+			(project "CyphalGNSSIMUBase-CAN"
+				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
+					(reference "#PWR69")
 					(unit 1)
 				)
 			)
