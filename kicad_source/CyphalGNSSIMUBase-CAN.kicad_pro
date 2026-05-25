@@ -622,6 +622,10 @@
     [
       "c16f48f1-b203-4e3b-a63b-33c1b1e484ca",
       "BNO085"
+    ],
+    [
+      "713c1fa1-1d32-4fca-865a-3cbd54862939",
+      "GNSS"
     ]
   ],
   "text_variables": {}

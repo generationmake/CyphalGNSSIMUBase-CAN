@@ -2197,7 +2197,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f518c32")
-		(property "Reference" "U16"
+		(property "Reference" "U4"
 			(at 84.455 25.7302 0)
 			(effects
 				(font
@@ -2240,93 +2240,93 @@
 			)
 		)
 		(pin "1"
-			(uuid "b4336b3b-134b-469e-b8aa-9338a2b309f5")
+			(uuid "129c11ff-6a89-4480-af06-9d984d1da684")
 		)
 		(pin "10"
-			(uuid "79e8483e-6f23-498b-b0e7-fdb5dfe85b9c")
+			(uuid "e7a9506c-bb55-4192-9505-d09ccf751aad")
 		)
 		(pin "11"
-			(uuid "6b8066f2-d7ca-4909-940d-a5f123aa7a4f")
+			(uuid "fe1fd4c0-6e63-4ea1-83a2-31aed9fc2600")
 		)
 		(pin "12"
-			(uuid "acecd1c3-fe52-48d6-89f8-97e7515cf1ec")
+			(uuid "c51bead7-995f-44e7-bade-ecb227a7c667")
 		)
 		(pin "13"
-			(uuid "84cbed64-b5e0-4f6e-8b4d-748954d48891")
+			(uuid "8e771ed5-b237-4fa1-ada0-8c7db1c70402")
 		)
 		(pin "14"
-			(uuid "51d5fc7a-3a8d-49b8-83af-f3e077e94587")
+			(uuid "3660b230-0534-4d0b-9c9c-67baadb32b02")
 		)
 		(pin "15"
-			(uuid "b77f8992-30bb-40a9-90d9-632fc7016505")
+			(uuid "6afa50ac-5939-4964-a02e-cc23ff5863e1")
 		)
 		(pin "16"
-			(uuid "64aba5fb-4e2f-46fc-9b51-50573c0b086f")
+			(uuid "e7f824dc-64a1-4506-a41c-bff6647d597e")
 		)
 		(pin "17"
-			(uuid "aad0790b-4bb0-4798-9c39-0e76af29b7e9")
+			(uuid "5f7acbf7-eb0e-4386-9b8b-4851b4bac9a7")
 		)
 		(pin "18"
-			(uuid "ecbc73ca-7734-45d8-88ab-b8e58cfeda90")
+			(uuid "6c22036a-62f3-47c5-8de2-5cb1bee94966")
 		)
 		(pin "19"
-			(uuid "7ab57c70-f28a-4cd7-8c33-6a5153a183e2")
+			(uuid "cd4042ce-892c-46d3-a315-40801db6d63c")
 		)
 		(pin "2"
-			(uuid "ee3201c2-c2b0-4742-be1e-8d4448705027")
+			(uuid "2d9e34b9-f09d-436f-b7ed-249e413e4903")
 		)
 		(pin "20"
-			(uuid "c4f8cf86-23a8-4a7e-b8fa-3d0cf629fbcd")
+			(uuid "133c7f4e-e7d4-4897-9b3f-86b2a36b023f")
 		)
 		(pin "21"
-			(uuid "2f86d51e-693f-417e-ba3d-fdff4ddd5089")
+			(uuid "704333f7-d1ac-4dba-88f7-46113297e233")
 		)
 		(pin "22"
-			(uuid "104530d6-0738-4640-b027-66efc5a45c2d")
+			(uuid "961d6f09-7e73-4e4e-a937-533ab2812400")
 		)
 		(pin "23"
-			(uuid "e6ab9b62-76ca-4850-aaab-fbda0f593357")
+			(uuid "4457e2f0-e47a-400a-87e0-679fde6b38b8")
 		)
 		(pin "24"
-			(uuid "c6c40422-4a0c-46bc-9e61-e44ca5466005")
+			(uuid "bea89e9c-1a98-4f32-91fa-f05a83478be7")
 		)
 		(pin "25"
-			(uuid "7673656d-d1d4-49f3-8abe-e70794550195")
+			(uuid "ec3ad52d-dad4-46c2-910d-d7da446b62e6")
 		)
 		(pin "26"
-			(uuid "a74a5896-34e0-4e5c-8443-3440a431ace5")
+			(uuid "de41f308-94fc-433c-b060-6eee03d92518")
 		)
 		(pin "27"
-			(uuid "5c50afb0-2106-4e33-98a2-6f0f20ade544")
+			(uuid "1abe0573-481f-4120-91e8-4504b6082180")
 		)
 		(pin "28"
-			(uuid "2f340fad-6073-4208-ab3a-18309375729c")
+			(uuid "51b681df-fed0-4432-bc0d-0a489071928a")
 		)
 		(pin "3"
-			(uuid "fe1ca5b9-c958-446a-bbe4-6a3509abc1c3")
+			(uuid "a4bdc0f9-139f-4916-b64f-616d218bec41")
 		)
 		(pin "4"
-			(uuid "2964016b-a29c-413e-a32d-0a5625564430")
+			(uuid "8047c510-e3f2-46f7-9eed-e4dc558c1ae3")
 		)
 		(pin "5"
-			(uuid "80a930dc-29a4-4ead-822a-73cb0be9aabc")
+			(uuid "1134c33b-2cc7-4ff8-9618-96606a9e71e3")
 		)
 		(pin "6"
-			(uuid "a448c326-a6cc-44d7-999e-6fa9a6e2f47d")
+			(uuid "feb2fa39-b94e-43f2-92a7-711e62da0c7c")
 		)
 		(pin "7"
-			(uuid "10d8c417-6da1-4e0b-8b2e-a41e3a1fd522")
+			(uuid "19798708-e0d0-4f9b-9886-81cec970f97f")
 		)
 		(pin "8"
-			(uuid "4cbc23db-1e93-4a2b-aa7a-f27d2d7dd7d2")
+			(uuid "34818bba-9cea-4359-bdef-5f9367e6bb49")
 		)
 		(pin "9"
-			(uuid "a4022467-8e60-4e15-9cf8-95a9a76cafc5")
+			(uuid "aa8690de-44be-43a9-860c-c9a41ad46549")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "U16")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -2341,7 +2341,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f51a15b")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR46"
 			(at 60.96 86.36 0)
 			(effects
 				(font
@@ -2384,12 +2384,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "058144f5-a762-4746-9a62-d901df41ddff")
+			(uuid "9f7e256b-2037-4ad7-8461-57697ed5e9fc")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0142")
+					(reference "#PWR46")
 					(unit 1)
 				)
 			)
@@ -2404,7 +2404,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f574211")
-		(property "Reference" "R51"
+		(property "Reference" "R13"
 			(at 136.1186 39.4716 0)
 			(effects
 				(font
@@ -2449,15 +2449,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "d275ccb6-e734-4d81-b3f4-a5bd654ab39e")
+			(uuid "923c6f24-6bb3-4b00-ad7d-1097a15cf6d5")
 		)
 		(pin "2"
-			(uuid "7adbe11d-6781-4b81-a9e3-f5028cca0c61")
+			(uuid "3cbf205b-a3eb-4234-8653-60adc0b7ff0a")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R51")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -2472,7 +2472,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5748fa")
-		(property "Reference" "#PWR0144"
+		(property "Reference" "#PWR48"
 			(at 134.62 50.8 0)
 			(effects
 				(font
@@ -2515,12 +2515,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e2dbdfb0-93e1-474f-8264-28d27374e0bf")
+			(uuid "4c73157e-15e3-4c8b-b8bd-96bbfeb463bf")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0144")
+					(reference "#PWR48")
 					(unit 1)
 				)
 			)
@@ -2535,7 +2535,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f57a7a0")
-		(property "Reference" "R52"
+		(property "Reference" "R14"
 			(at 145.0086 39.4716 0)
 			(effects
 				(font
@@ -2580,15 +2580,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "f017c3e7-84e7-457e-8c6b-39898bad825c")
+			(uuid "d3f8a93b-3041-4012-b1bf-47725a202601")
 		)
 		(pin "2"
-			(uuid "d3902712-720e-49a8-ba15-f8b73efd4c36")
+			(uuid "b5217e0e-58a7-4227-82a1-6184e111fc45")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R52")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -2603,7 +2603,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f57a7b4")
-		(property "Reference" "#PWR0145"
+		(property "Reference" "#PWR49"
 			(at 143.51 50.8 0)
 			(effects
 				(font
@@ -2646,12 +2646,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "274921e0-cc43-484c-9165-827a3f40b24a")
+			(uuid "1c6219f1-41da-4c98-9b73-54ac3cc0e217")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0145")
+					(reference "#PWR49")
 					(unit 1)
 				)
 			)
@@ -2666,7 +2666,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f58c07e")
-		(property "Reference" "C50"
+		(property "Reference" "C10"
 			(at 37.8968 62.3316 0)
 			(effects
 				(font
@@ -2711,15 +2711,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "efdef467-0060-49a7-8e79-8c52795f6bd9")
+			(uuid "71f7fa17-063b-4e5a-9a91-75d6fc2d7d46")
 		)
 		(pin "2"
-			(uuid "065d9f44-74a1-4e93-ba95-fd2ad53903a6")
+			(uuid "63a654ce-429c-4677-b2e9-93eace999908")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "C50")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -2734,7 +2734,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f58c088")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR42"
 			(at 35.56 73.66 0)
 			(effects
 				(font
@@ -2777,12 +2777,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f0a12cb6-f984-4478-b9b0-432f75210fea")
+			(uuid "3301531e-4e7c-4aa0-9a7f-f77c773b3737")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0138")
+					(reference "#PWR42")
 					(unit 1)
 				)
 			)
@@ -2798,7 +2798,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5a6eab")
-		(property "Reference" "R54"
+		(property "Reference" "R16"
 			(at 153.4414 97.8916 0)
 			(effects
 				(font
@@ -2843,15 +2843,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "5105ca46-07fc-4b4f-9192-ecca67e0def9")
+			(uuid "2ec53f88-603f-4fab-b57a-4307b6a9bd25")
 		)
 		(pin "2"
-			(uuid "56e1fb64-cb1e-4d5a-b986-e701c5b54eac")
+			(uuid "b28059ee-f6f6-46eb-8d3f-f95bd2e196bd")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R54")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -2867,7 +2867,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5a6eb5")
-		(property "Reference" "R53"
+		(property "Reference" "R15"
 			(at 153.4414 90.2716 0)
 			(effects
 				(font
@@ -2912,15 +2912,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "e6bcf73e-8e94-4e06-ad34-216a5bd11c31")
+			(uuid "34c660d0-e522-4702-a64e-4c89d940ffb0")
 		)
 		(pin "2"
-			(uuid "4a49350a-aa07-44fa-950d-470c69307a83")
+			(uuid "662d2ba7-36d9-4d48-a740-bc20f2b85a23")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R53")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -2936,7 +2936,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5a6ed3")
-		(property "Reference" "#PWR0147"
+		(property "Reference" "#PWR51"
 			(at 154.94 109.22 0)
 			(effects
 				(font
@@ -2979,12 +2979,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d015538e-4f88-4ad2-aadd-8873130387e3")
+			(uuid "49d40089-c403-4b49-b5dd-93acf1ef603c")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0147")
+					(reference "#PWR51")
 					(unit 1)
 				)
 			)
@@ -3000,7 +3000,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5a6f0c")
-		(property "Reference" "R56"
+		(property "Reference" "R18"
 			(at 160.02 60.96 90)
 			(effects
 				(font
@@ -3043,15 +3043,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "eb4c2c9c-7e66-4de8-9af7-fb1509f834a0")
+			(uuid "b0e044fd-3d2b-4df4-91c8-679b7c093901")
 		)
 		(pin "2"
-			(uuid "0b36eaec-94c0-46ac-96eb-1e0b8df29f42")
+			(uuid "21f68034-ae38-485e-a80a-5ae2fcda76a3")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R56")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -3067,7 +3067,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5a6f16")
-		(property "Reference" "R55"
+		(property "Reference" "R17"
 			(at 160.02 58.42 90)
 			(effects
 				(font
@@ -3110,15 +3110,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "89934b4c-0ab8-4905-97a0-0995a2f9072f")
+			(uuid "baa59950-520a-4886-88ca-3d3828a031d2")
 		)
 		(pin "2"
-			(uuid "b790ae7f-8606-4e90-ba5d-ad36e09ab8fd")
+			(uuid "967c9a10-435f-4aab-aefb-03aadfe53784")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R55")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -3133,7 +3133,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5c11f4")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR47"
 			(at 125.73 52.07 0)
 			(effects
 				(font
@@ -3176,12 +3176,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b83bf3b0-0179-4ce1-a53c-b4bfda45c6e7")
+			(uuid "8466af1d-686f-475a-9da2-fbcd08cd2133")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0143")
+					(reference "#PWR47")
 					(unit 1)
 				)
 			)
@@ -3196,7 +3196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f5c376c")
-		(property "Reference" "R50"
+		(property "Reference" "R12"
 			(at 119.4816 44.2214 0)
 			(effects
 				(font
@@ -3241,15 +3241,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "8974e724-8d26-4ae4-b391-e99446d82fb7")
+			(uuid "2bb98296-c015-41a3-a980-36850ae1e63c")
 		)
 		(pin "2"
-			(uuid "28bdce0b-f855-476c-bb2f-718068ee3c59")
+			(uuid "896aa4e4-1a2b-4b7d-a4b7-4c7992054ee2")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R50")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -3264,7 +3264,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f60b52d")
-		(property "Reference" "R48"
+		(property "Reference" "R10"
 			(at 48.4886 53.4416 0)
 			(effects
 				(font
@@ -3309,15 +3309,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "0c018da1-e932-4a53-a420-710fbadbf831")
+			(uuid "f3ed53ae-004b-489f-9f4c-a65e472018bd")
 		)
 		(pin "2"
-			(uuid "b2d90c2e-07e3-4789-98cc-2103a733750c")
+			(uuid "7bae6c19-4168-45e1-aa74-2663837602d6")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R48")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -3332,7 +3332,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f617b09")
-		(property "Reference" "C48"
+		(property "Reference" "C8"
 			(at 25.1968 26.7716 0)
 			(effects
 				(font
@@ -3377,15 +3377,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "ea674345-61e6-4a72-a3e8-db89781b081d")
+			(uuid "5a922d51-7110-414d-8156-3ea04c9cdd34")
 		)
 		(pin "2"
-			(uuid "81a23eee-3b43-4538-b9f1-58b743306430")
+			(uuid "c90e8560-4725-46ac-836a-fecd4010282a")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "C48")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -3400,7 +3400,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f617b13")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR39"
 			(at 22.86 38.1 0)
 			(effects
 				(font
@@ -3443,12 +3443,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e1338ffa-7a2e-4923-aef1-6e85a2b481c0")
+			(uuid "92fcf82f-6120-4e0e-b566-d1c5493f3055")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0135")
+					(reference "#PWR39")
 					(unit 1)
 				)
 			)
@@ -3463,7 +3463,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f617b29")
-		(property "Reference" "C49"
+		(property "Reference" "C9"
 			(at 37.8968 26.7716 0)
 			(effects
 				(font
@@ -3508,15 +3508,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "918e6cb9-64f5-4f40-9f36-6ed0db9cd0a1")
+			(uuid "816bb94e-921d-4dde-81de-b321ea747256")
 		)
 		(pin "2"
-			(uuid "cc24242c-a718-4d44-826b-f9165bd4c6ea")
+			(uuid "10f63925-1290-417e-ac6c-10d3c6ba999d")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "C49")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -3531,7 +3531,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f617b33")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR41"
 			(at 35.56 38.1 0)
 			(effects
 				(font
@@ -3574,12 +3574,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0b7b4f25-e2d0-4e04-b7a4-8ca4bee62fbc")
+			(uuid "34d6df1c-e79b-459a-978a-0ec94e985191")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR0137")
+					(reference "#PWR41")
 					(unit 1)
 				)
 			)
@@ -3594,7 +3594,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f621274")
-		(property "Reference" "R49"
+		(property "Reference" "R11"
 			(at 54.8386 45.8216 0)
 			(effects
 				(font
@@ -3639,15 +3639,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "f71a840c-f041-45d0-8366-1a78637acc7e")
+			(uuid "f9b5050c-7e87-46a6-8918-d81ff44e2273")
 		)
 		(pin "2"
-			(uuid "9b1f9f75-57e1-4209-ae01-0e3cd8bf355b")
+			(uuid "f3c90584-153e-4135-aa2e-9e518c223236")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "R49")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -3708,10 +3708,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "72860f4e-f510-4b7c-b75f-2933f4878d51")
+			(uuid "7d2d8541-5cd6-4ae9-b27e-5a1e774211cd")
 		)
 		(pin "2"
-			(uuid "bb1f7cf6-bf7f-461a-bada-357a7f0f085c")
+			(uuid "c33658d8-b674-4eb6-9880-0daa9ad6a3a1")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
@@ -3731,7 +3731,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6dd8d6")
-		(property "Reference" "C52"
+		(property "Reference" "C12"
 			(at 119.4816 35.7632 0)
 			(effects
 				(font
@@ -3776,15 +3776,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "e87f61bc-18ec-477f-abdf-8618f20e65e8")
+			(uuid "b6c3617a-3a67-480b-b8bf-f0df7a0e2912")
 		)
 		(pin "2"
-			(uuid "b0cec6f0-5655-4165-a95c-05ea98de15d5")
+			(uuid "cc4ae66a-60d0-4154-8a50-9b15753e6bbb")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "C52")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -3799,7 +3799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f6e3776")
-		(property "Reference" "C51"
+		(property "Reference" "C11"
 			(at 119.4816 25.6032 0)
 			(effects
 				(font
@@ -3844,15 +3844,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "90bc0198-6c9b-4396-80cb-afc855f5c046")
+			(uuid "d64a57d9-9877-4fa4-bfdf-1207e50dae9c")
 		)
 		(pin "2"
-			(uuid "d9314c6c-c612-432b-9acd-69c6e02b6621")
+			(uuid "97d861b3-371a-47bd-9cc3-0fb696e18cc0")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "C51")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -3867,7 +3867,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d3d2ae0-c03c-4050-8d79-50251234c4c6")
-		(property "Reference" "#PWR4"
+		(property "Reference" "#PWR40"
 			(at 35.56 27.94 0)
 			(effects
 				(font
@@ -3910,12 +3910,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b13d13f5-9c43-4dea-b9f4-c84aaa2335ff")
+			(uuid "2c6bf896-04c7-4ffa-9cb0-05fda78ba8d2")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR4")
+					(reference "#PWR40")
 					(unit 1)
 				)
 			)
@@ -3930,7 +3930,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c66599d-cbd6-4bea-a1f1-15ea80b8d49c")
-		(property "Reference" "#PWR10"
+		(property "Reference" "#PWR50"
 			(at 154.94 91.44 0)
 			(effects
 				(font
@@ -3973,12 +3973,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f1040a35-0dbf-4c57-84d0-4110f0ff611f")
+			(uuid "a12edec9-dcce-402e-8938-57d27bc2c8b8")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR10")
+					(reference "#PWR50")
 					(unit 1)
 				)
 			)
@@ -3993,7 +3993,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96096bc7-bd19-4be9-abef-2a5927d238bb")
-		(property "Reference" "#PWR3"
+		(property "Reference" "#PWR38"
 			(at 22.86 27.94 0)
 			(effects
 				(font
@@ -4036,12 +4036,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4f5f8d12-2000-47d3-bed6-8c6f04898019")
+			(uuid "b5f57639-e0be-4560-80b6-4b09aa39e0c4")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR3")
+					(reference "#PWR38")
 					(unit 1)
 				)
 			)
@@ -4056,7 +4056,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db1b4700-2164-4784-83fd-de1182ba2f4e")
-		(property "Reference" "#PWR6"
+		(property "Reference" "#PWR45"
 			(at 60.96 34.29 0)
 			(effects
 				(font
@@ -4099,12 +4099,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7a7e46f9-16ad-453d-b1ae-17831070c5b2")
+			(uuid "34b8af7c-22db-42b9-bd4d-5977b1212a25")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR6")
+					(reference "#PWR45")
 					(unit 1)
 				)
 			)
@@ -4119,7 +4119,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ef7f5204-1d3c-4a02-b8bf-6fb186aa3d70")
-		(property "Reference" "#PWR7"
+		(property "Reference" "#PWR44"
 			(at 53.34 46.99 0)
 			(effects
 				(font
@@ -4162,12 +4162,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c2c9b593-5710-4c9a-aae7-b4e9481ccbc6")
+			(uuid "2836a1d1-ce75-4a16-8ff7-f1391e4c31c5")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR7")
+					(reference "#PWR44")
 					(unit 1)
 				)
 			)
@@ -4182,7 +4182,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f312731b-ec9c-466c-861c-82a9f9824eb6")
-		(property "Reference" "#PWR9"
+		(property "Reference" "#PWR43"
 			(at 46.99 54.61 0)
 			(effects
 				(font
@@ -4225,12 +4225,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "fc2c7d49-da06-4656-9629-5daf3713cbc3")
+			(uuid "8191eefb-f1c3-42f2-8f0b-1fecd10a3f9a")
 		)
 		(instances
 			(project "CyphalGNSSIMUBase-CAN"
 				(path "/9d6d512e-1439-4aa2-b0d9-afb2dddd9146/c16f48f1-b203-4e3b-a63b-33c1b1e484ca"
-					(reference "#PWR9")
+					(reference "#PWR43")
 					(unit 1)
 				)
 			)
