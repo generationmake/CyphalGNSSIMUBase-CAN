@@ -7678,7 +7678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "generationmake:RASPI_PICO_SOLDER_Kopie"
+		(property "Footprint" "generationmake:RASPI_PICO_SOLDER_ONLY"
 			(at 180.34 48.26 0)
 			(effects
 				(font
